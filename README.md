@@ -2,26 +2,26 @@
 
 <div align="center">
 
-![Github Contributors](https://img.shields.io/github/contributors/jjrh92/WhatsappImageCompressor)
-![Github Stars](https://img.shields.io/github/stars/jjrh92/WhatsappImageCompressor)
-![Github Issues](https://img.shields.io/github/issues-raw/jjrh92/WhatsappImageCompressor)
+![Github Contributors](https://img.shields.io/github/contributors/jjrh92/IMGCompressor)
+![Github Stars](https://img.shields.io/github/stars/jjrh92/IMGCompressor)
+![Github Issues](https://img.shields.io/github/issues-raw/jjrh92/IMGCompressor)
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/jjrh92/WhatsappImageCompressor">
+  <a href="https://github.com/jjrh92/IMGCompressor">
     <img src="https://img.icons8.com/?size=256&id=43677&format=png" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">Welcome - Bienvenid@</h3>
 
   <p align=center">
-    WhatsappImageCompressor
+    IMGCompressor
     <br />
     <br />
-    <a href="https://github.com/jjrh92/WhatsappImageCompressor/issues">Report Bug - Reportar Bug</a>
+    <a href="https://github.com/jjrh92/IMGCompressor/issues">Report Bug - Reportar Bug</a>
     ·
-    <a href="https://github.com/jjrh92/WhatsappImageCompressor/issues">Request Feature - Pedir Feature</a>
+    <a href="https://github.com/jjrh92/IMGCompressor/issues">Request Feature - Pedir Feature</a>
   </p>
 </div>
 
@@ -51,7 +51,7 @@ Install the project locally - Instalar el proyecto localmente. (npm install)
 
 Clone the repo and run the command npm install, then run the command npm start after you have copied the raw source images into the input folder.
    ```sh
-   git clone https://github.com/jjrh92/WhatsappImageCompressor.git
+   git clone https://github.com/jjrh92/IMGCompressor.git
    ```
 
 <!-- USAGE EXAMPLES -->
