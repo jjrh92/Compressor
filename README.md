@@ -16,7 +16,7 @@
 <h3 align="center">Welcome - Bienvenid@</h3>
 
   <p align=center">
-    Bender
+    WhatsappImageCompressor
     <br />
     <br />
     <a href="https://github.com/jjrh92/WhatsappImageCompressor/issues">Report Bug - Reportar Bug</a>
