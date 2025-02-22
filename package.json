@@ -1,0 +1,15 @@
+{
+    "name": "whatsapp-image-compressor",
+    "version": "2.0.0",
+    "description": "A Node.js tool to compress images for WhatsApp sharing, ensuring they are under 15MB.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "cli-progress": "^3.9.0",
+        "sharp": "^0.32.0"
+    },
+    "author": "Julio Reyes",
+    "license": "MIT"
+}
