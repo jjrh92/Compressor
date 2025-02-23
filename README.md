@@ -2,26 +2,26 @@
 
 <div align="center">
 
-![Github Contributors](https://img.shields.io/github/contributors/jjrh92/IMGCompressor)
-![Github Stars](https://img.shields.io/github/stars/jjrh92/IMGCompressor)
-![Github Issues](https://img.shields.io/github/issues-raw/jjrh92/IMGCompressor)
+![Github Contributors](https://img.shields.io/github/contributors/jjrh92/Compressor)
+![Github Stars](https://img.shields.io/github/stars/jjrh92/Compressor)
+![Github Issues](https://img.shields.io/github/issues-raw/jjrh92/Compressor)
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/jjrh92/IMGCompressor">
+  <a href="https://github.com/jjrh92/Compressor">
     <img src="https://img.icons8.com/?size=256&id=43677&format=png" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">Welcome - Bienvenid@</h3>
 
   <p align=center">
-    IMGCompressor
+    Compressor
     <br />
     <br />
-    <a href="https://github.com/jjrh92/IMGCompressor/issues">Report Bug - Reportar Bug</a>
+    <a href="https://github.com/jjrh92/Compressor/issues">Report Bug - Reportar Bug</a>
     ·
-    <a href="https://github.com/jjrh92/IMGCompressor/issues">Request Feature - Pedir Feature</a>
+    <a href="https://github.com/jjrh92/Compressor/issues">Request Feature - Pedir Feature</a>
   </p>
 </div>
 
@@ -51,7 +51,7 @@ Install the project locally - Instalar el proyecto localmente. (npm install)
 
 Clone the repo and run the command npm install, then run the command npm start after you have copied the raw source images into the input folder.
    ```sh
-   git clone https://github.com/jjrh92/IMGCompressor.git
+   git clone https://github.com/jjrh92/Compressor.git
    ```
 
 <!-- USAGE EXAMPLES -->
@@ -90,6 +90,6 @@ Contact <img src="https://media3.giphy.com/media/dA9zmG7BCtbauczAQY/giphy.gif" w
 Acknowledgments <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXliemQ4NzVmdXRxc3FyM3RjN2F2NzQ5MmRwZnJxa2VrZDBncjhtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sa5tk2gi3G1MSmy1vY/giphy.gif" width="30px"> Agradecimientos
 </h1>
 
-[WhatsApp](https://www.whatsapp.com//)
+[WhatsApp](https://www.whatsapp.com/)
 [sharp](https://www.npmjs.com/package/sharp)
 [cli-progress](https://www.npmjs.com/package/cli-progress)

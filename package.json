@@ -1,6 +1,6 @@
 {
-    "name": "img-compressor",
-    "version": "2.0.0",
+    "name": "compressor",
+    "version": "3.0.0",
     "description": "A Node.js tool to compress images for WhatsApp sharing, ensuring they are under 15MB.",
     "main": "index.js",
     "scripts": {
